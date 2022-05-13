@@ -56,7 +56,7 @@ public class CalculatorTest {
         System.out.println("\t\tExecuting " + new Object() {
         }.getClass().getEnclosingMethod().getName() + " Test");
 
-        // Arrange
+        // Arrange..
         int expectedResult = 5;
         int firsOperand = 3;
         int secondOperand = 2;
